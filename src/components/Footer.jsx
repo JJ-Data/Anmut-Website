@@ -70,7 +70,7 @@ function Footer() {
           <hr className="my-6  sm:mx-auto border-gray-600 lg:my-8" />
           <div className="sm:flex sm:items-center sm:justify-between">
             <span className="text-sm text-[#9E9E9E] sm:text-center dark:text-[#9E9E9E]">
-              © 2023{" "}
+              © 2025{" "}
               <a href="https://facebook.com" className="hover:underline">
                 JOWIS™
               </a>
