@@ -15,34 +15,20 @@ export const teamMembers = [
   },
   {
     id: 4,
-    name: "Pelumi Olaosebikan",
-    job: "Admin & Communication Officer",
-    url: "https://www.linkedin.com/in/pelumi-olaosebikan/?originalSubdomain=ng",
-    avatar: "/assets/Anmut-4.jpg",
-  },
-  {
-    id: 5,
     name: "Victor Akomolehin ",
     url: "https://www.linkedin.com/in/qs-victor-akomolehin-pmniqs-cpm-acipm-pmp-prince2-mba-33049712b/?trk=opento_nprofile_details",
     avatar: "/assets/Anmut-3.jpg",
     job: "Quantity Surveyor",
   },
   {
-    id: 6,
-    name: "Blessing Ewemade",
-    job: "Admin Manager",
-    url: "https://www.linkedin.com/in/blessing-ewemade-7aa417148/",
-    avatar: "/assets/Anmut-7.jpg",
-  },
-  {
-    id: 7,
+    id: 5,
     name: "Christopher Akinmukomi",
     job: "Site Supervisor",
     url: "https://www.linkedin.com/in/qs-victor-akomolehin-pmniqs-cpm-acipm-pmp-prince2-mba-33049712b/?trk=opento_nprofile_details",
     avatar: "/assets/Anmut-1.jpg",
   },
   {
-    id: 8,
+    id: 6,
     name: "Jephthah Animasaun",
     url: "https://www.linkedin.com/in/animasaun-jephthah-90759a205/",
     avatar:
@@ -50,7 +36,7 @@ export const teamMembers = [
     job: "Account Officer",
   },
   {
-    id: 9,
+    id: 7,
     name: "Oluwadamilola Akintola",
     url: "https://www.linkedin.com/in/animasaun-jephthah-90759a205/",
     avatar:
